@@ -47,7 +47,7 @@ db = MySQLdb.connect(host="localhost", # your host, usually localhost
 cur = db.cursor()
 fx = ImgFX()
 r = praw.Reddit(user_agent = user_agent)
-r.login('ShittyWatercolorBot','Sh1ttyB0t')
+r.login('*****','*****')
 
 #-----------------
 # functions

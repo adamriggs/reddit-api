@@ -37,7 +37,7 @@ my_name="chatty_bot"
 #-----------------
 
 r = praw.Reddit(user_agent = user_agent)
-r.login('chatty_bot','ch4tty_b0t')
+r.login('*****','*****')
 
 #-----------------
 # functions

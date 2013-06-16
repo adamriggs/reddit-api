@@ -49,7 +49,7 @@ cur=db.cursor()
 #-----------------
 
 r = praw.Reddit(user_agent = user_agent)
-#r.login(my_name,'4_l0t_b0t')
+#r.login(my_name,'*****')
 
 #-----------------
 # functions
