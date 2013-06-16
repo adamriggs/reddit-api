@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS ShittyWatercolorBot(
+id MEDIUMINT NOT NULL AUTO_INCREMENT,
+timestamp TIMESTAMP,
+msg_type varchar(10) DEFAULT NULL,
+msg_id varchar(20) DEFAULT NULL,
+subreddit varchar(20) DEFAULT NULL,
+author varchar(20) DEFAULT NULL,
+score int(32),
+PRIMARY KEY (id)
+) ENGINE=InnoDB;

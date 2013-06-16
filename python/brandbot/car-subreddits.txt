@@ -1,0 +1,6 @@
+car based subreddits
+'car','cars','autos','cartalk','usercars','projectcar','autodetailing','carporn','spotted','exoticspotted','acura','lexus','bmw','audi','mercedes_benz','cevrolet_cars','dodge','automotivetraining','honda','honda_performance','integra','carfails','carfaps','cargifs','carmusic','carpics','carpictures','carporn','carreviews','carspotting','citycars','coolcars','gearhead','gearheads','letstalkcars','mechanicadvice','mitsubishi','supercarporn','topgear','topgearamerica','usedcars'
+
+acura models
+' type-s ',' tl ',' tsx ',' rl ',' zdx ',' tsx ',' mdx ',' ilx ',' rlx ',' acura '
+
